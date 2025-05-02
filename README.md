@@ -12,7 +12,6 @@ Iniciamos o projeto entendendo cada objeto, tabela, campo, tipos de dados e rela
 - Receita por Cliente e por Gênero <br>
 - Clientes com Mais de 1 Pedido <br>
 - Produtos mais comprados por estes clientes <br>
-- Média de vendas para cada cliente <br>
 - E informações pertinentes, como ticket médio, mínimo e máximo.
 <br><br>
 <a href="https://github.com/camilla-menezes/AdventureWorksPortfolio/blob/main/SQL/AdventureWorks%20Clients%2001.sql" target="_blank">Clique aqui</a> e acesse o script SQL no Github.

@@ -1,4 +1,3 @@
-
 USE AdventureWorksDW2022;
 
 -- 1. Receita Total

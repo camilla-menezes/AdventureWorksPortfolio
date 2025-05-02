@@ -9,8 +9,8 @@ Fazendo o download do arquivo AdventureWorksDW2022.bak e anexando-o no SQL Serve
 Iniciamos o projeto entendendo cada objeto, tabela, campo, tipos de dados e relacionamentos do modelo de dados AdventureWorks. Após identificar a tabela de clientes e vendas, desenvolvemos os scripts em SQL para explorar os dados e extrair os primeiros insights durante a análise exploratória de dados. Como por exemplo: <br><br>
 - Clientes distintos <br>
 - Frequência de Pedidos por Cliente <br>
-- Receita por Cliente
-- Clientes com Mais de 1 Pedido 
+- Receita por Cliente e por Gênero <br>
+- Clientes com Mais de 1 Pedido <br>
 - Produtos mais comprados por estes clientes <br>
 - Média de vendas para cada cliente <br>
 - E informações pertinentes, como ticket médio, mínimo e máximo.
